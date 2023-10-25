@@ -1,0 +1,1 @@
+# Pensamento.comp23
