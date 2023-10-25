@@ -11,29 +11,47 @@ p {
 strong {
     font-size: 30px
     background-color #f0ff68;
-} body {background-color:#1d2568 ;}
-.titulo{background-color:#1d2568(139, 30, 30)}
+} 
+
+body {
+ background-color:#1d2568 ;
+}
+
+.titulo{
+ background-color:#1d2568(139, 30, 30);
+}
  
-h2 {font-size: 50px;
-    text-align: center;}
+h2 {
+ font-size: 50px;
+    text-align: center;
+}
 
     .imagem1 {
-        width: 1350px;}
+        width: 1350px;
+    }
 
 .imagem2 {
-            width: 500px;}
+            width: 500px;
+}
 
-.imagem3 { width: 500px;}
+.imagem3 {
+ width: 500px;
+         }
 
-.imagem4 { width: 500px;}
+.imagem4 {
+ width: 500px;
+}
 
 
 .imagemcentralizada {
-    text-align: center;}
+    text-align: center;
+}
 
     nav a{
         text-transform: uppercase;
         color: blanchedalmond;
         font-weight: 300;
-        font-size: 100%;}
+        font-size: 100%;
+    }
+
         
